@@ -4,7 +4,9 @@ This work presents a novel deep neural network for short-term electric load fore
 
 ## Data Description
 
-The dataset consists of two parts: the first is the electric load dataset, and the second is the meteorological data. The electric load data is obtained from Memorial University of Newfoundland. The campus uses two meters to monitor electric load at 15-minute intervals. Meteorological information is sourced from weather.gc.ca.
+TThe dataset consists of two parts: the first is the electric load dataset, and the second is the meteorological data. The electric load data is obtained from Memorial University of Newfoundland, where the campus uses two meters to monitor electric load at 15-minute intervals. Meteorological information is sourced from weather.gc.ca.
+
+Both datasets are combined to create a single multivariate time series. The main features of the time series are outlined below.
 
 | Parameter        | Value           | 
 |:-------------:|:-------------:| 
