@@ -17,3 +17,11 @@ Both datasets are combined to create a single multivariate time series. The main
 |Features |08   |    
 
 ## Network Architecture
+
+The proposed custom architecture features a 1D convolutional neural network (CNN), which extracts features from the exogenous variables and passes them to the encoder-decoder model. The encoder-decoder model incorporates an attention mechanism that enables it to focus on the most relevant patterns in the extracted temporal features. Both the encoder and decoder consist of GRU units. Following this, a fully connected layer is applied. The 24 output cells of the fully connected layer represent the predicted hourly load profile.
+
+The figure below shows the architecture. 
+
+ 
+![image](https://github.com/user-attachments/assets/3c05611d-535b-4d24-a386-f1ee8b3d3fcc)
+
