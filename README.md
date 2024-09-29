@@ -8,8 +8,10 @@ The dataset consists of two parts: the first is the electric load dataset, and t
 
 | Parameter        | Value           | 
 | ------------- |:-------------:| 
-| col 3 is      | right-aligned | 
-| col 2 is      | centered      |   
-| zebra stripes | are neat      |    
+| Data start date      |January 2nd 2016 | 
+| Data end date      |March 31st 2020      |   
+| Data interval |1 hour    |    
+| Total data points |37221   |    
+|Features |08   |    
 
 ## Network Architecture
