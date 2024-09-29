@@ -22,6 +22,6 @@ The proposed custom architecture features a 1D convolutional neural network (CNN
 
 The figure below shows the architecture. 
  
-![image](https://github.com/user-attachments/assets/4a8a1f47-20bb-4af4-b9ae-550450734a41)
+![image](https://github.com/user-attachments/assets/b17d5393-e0b8-42f1-8e7b-8f35012291d9)
 
 
