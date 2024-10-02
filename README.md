@@ -22,11 +22,11 @@ The proposed custom architecture features a 1D convolutional neural network (CNN
 
 The figure below shows the architecture. 
  
-![image](https://github.com/user-attachments/assets/2db24571-a7ed-42ef-8c03-4d9aef0b0507)
+![image](https://github.com/user-attachments/assets/425a9b3d-d61f-48be-ba83-94fb7acbade0)
 
 ## Results
 
 The proposed architecture shows significant improvement compared to state-of-the-art algorithms found in the current AI lanscape. This can be observed in the plots below. 
 
-![Results](https://github.com/user-attachments/assets/4c592d2d-a014-498d-923b-dea5506ad49c)
+![image](https://github.com/user-attachments/assets/7d5375f3-31cc-40fd-9599-434ec1c2ae9d)
 
