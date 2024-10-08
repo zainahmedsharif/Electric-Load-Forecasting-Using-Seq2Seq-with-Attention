@@ -30,7 +30,7 @@ The proposed architecture shows significant improvement compared to state-of-the
 
 The evaluation metrics include Mean Absolute Error and Mean Absolute Percentage Error. 
 
-###Mean Absolute Percentage Error (MAPE)
+### Mean Absolute Percentage Error (MAPE)
 
 Mean Absolute Percentage Error (MAPE) is an evaluation metric that is defined as: 
 
@@ -40,7 +40,7 @@ Mean Absolute Percentage Error (MAPE) is an evaluation metric that is defined as
 
 This metric is independent of the scale of data and can be used to compare an algorithm across different time series. Although if a time series has zero or near zero values, this evaluation metric becomes infinite. It also penalizes negative and positive errors asymmetrically.  A more accurate algorithm would have lower MAPE compared to a less accurate model.
 
- ###Mean Absolute Error (MAE)
+ ### Mean Absolute Error (MAE)
 
 Mean absolute error is the average of the absolute difference between a predicted/forecasted value and ground truth. It can be written as: 
 ```math
