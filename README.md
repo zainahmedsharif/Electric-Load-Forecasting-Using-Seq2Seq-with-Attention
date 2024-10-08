@@ -30,6 +30,8 @@ The proposed architecture shows significant improvement compared to state-of-the
 
 The evaluation metrics include Mean Absolute Error and Mean Absolute Percentage Error. 
 
+	Mean Absolute Percentage Error (MAPE)
+
 
 Mean Absolute Percentage Error (MAPE) is an evaluation metric that is defined as: 
 
