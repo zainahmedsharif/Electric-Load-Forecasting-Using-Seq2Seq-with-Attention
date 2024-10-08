@@ -53,9 +53,10 @@ Here, P and G are predictions and ground values respectively. N is the number of
 
 The proposed architecture shows significant improvement compared to state-of-the-art algorithms found in the current AI lanscape. This can be observed in the plots below. 
 
-![image](https://github.com/user-attachments/assets/06f62391-e26f-44b9-b88f-f449173dfca4)
-
-![image](https://github.com/user-attachments/assets/201c72f8-8cfb-4bc9-ac8b-5565de9d947c)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/06f62391-e26f-44b9-b88f-f449173dfca4" alt="Image 1" width="45%">
+  <img src="https://github.com/user-attachments/assets/201c72f8-8cfb-4bc9-ac8b-5565de9d947c" alt="Image 2" width="45%">
+</p
 
 
 
