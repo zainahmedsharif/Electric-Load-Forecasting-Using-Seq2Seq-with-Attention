@@ -28,7 +28,7 @@ The figure below shows the architecture.
 
 The proposed architecture shows significant improvement compared to state-of-the-art algorithms found in the current AI lanscape. This can be observed in the plots below. 
 
-The evaluation metrics include Mean Squared Error 
+The evaluation metrics include Mean Absolute Error and Mean Absolute Percentage Error. 
 
 ![image](https://github.com/user-attachments/assets/06f62391-e26f-44b9-b88f-f449173dfca4)
 
