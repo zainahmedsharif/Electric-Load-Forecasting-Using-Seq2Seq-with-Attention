@@ -28,8 +28,6 @@ The figure below shows the architecture.
 
 The proposed architecture shows significant improvement compared to state-of-the-art algorithms found in the current AI lanscape. This can be observed in the plots below. 
 
-![image](https://github.com/user-attachments/assets/7d5375f3-31cc-40fd-9599-434ec1c2ae9d)
-
-![image](https://github.com/user-attachments/assets/2d4128a4-732b-4526-8582-18af4e0165b5)
+![image](https://github.com/user-attachments/assets/7d5375f3-31cc-40fd-9599-434ec1c2ae9d)  ![image](https://github.com/user-attachments/assets/2d4128a4-732b-4526-8582-18af4e0165b5)
 
 
