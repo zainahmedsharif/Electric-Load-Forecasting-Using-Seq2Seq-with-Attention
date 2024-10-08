@@ -26,9 +26,7 @@ The figure below shows the architecture.
 
 ## Results
 
-The proposed architecture shows significant improvement compared to state-of-the-art algorithms found in the current AI lanscape. This can be observed in the plots below. 
-
-The evaluation metrics include Mean Absolute Error and Mean Absolute Percentage Error. 
+The metrics used to evaluate performance include Mean Absolute Error and Mean Absolute Percentage Error. 
 
 ### Mean Absolute Percentage Error (MAPE)
 
@@ -48,6 +46,8 @@ Mean absolute error is the average of the absolute difference between a predicte
 ```
 Here, P and G are predictions and ground values respectively. N is the number of values in the dataset. If an estimator is more accurate, it would result in a lower MAE. An inaccurate estimator would result in a higher MAE.
 
+
+The proposed architecture shows significant improvement compared to state-of-the-art algorithms found in the current AI lanscape. This can be observed in the plots below. 
 
 ![image](https://github.com/user-attachments/assets/06f62391-e26f-44b9-b88f-f449173dfca4)
 
