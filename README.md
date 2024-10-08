@@ -32,7 +32,9 @@ The evaluation metrics include Mean Absolute Error and Mean Absolute Percentage 
 
 
 Mean Absolute Percentage Error (MAPE) is an evaluation metric that is defined as: 
-█(MAPE=100/n ∑_(i=1)^N▒|〖G_i-P〗_i/G_i |)
+
+\text{MAPE} = 100 \cdot \frac{1}{N} \sum_{i=1}^{N} \left| \frac{G_i - P_i}{G_i} \right|
+
 This metric is independent of the scale of data and can be used to compare an algorithm across different time series. Although if a time series has zero or near zero values, this evaluation metric becomes infinite. It also penalizes negative and positive errors asymmetrically.  A more accurate algorithm would have lower MAPE compared to a less accurate model.
 
 
