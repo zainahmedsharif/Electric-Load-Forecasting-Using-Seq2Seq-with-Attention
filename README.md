@@ -8,13 +8,17 @@ TThe dataset consists of two parts: the first is the electric load dataset, and 
 
 Both datasets are combined to create a single multivariate time series. The main features of the time series are outlined below.
 
+<div align="center">
+
 | Parameter        | Value           | 
 |:-------------:|:-------------:| 
-| Data start date      |January 2nd 2016 | 
-| Data end date      |March 31st 2020      |   
-| Data interval |1 hour    |    
-| Total data points |37221   |    
-|Features |08   |    
+| Data start date      | January 2nd 2016 | 
+| Data end date      | March 31st 2020      |   
+| Data interval | 1 hour    |    
+| Total data points | 37221   |    
+| Features | 08   |    
+
+</div>
 
 ## Network Architecture
 
